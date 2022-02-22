@@ -1,3 +1,5 @@
+_G.Key = "D2PV-WN8Z-03JX-X55F"
+
 -- Creator: illremember#3799
 
 -- Credits to infinite yield, harkinian, dex creators
